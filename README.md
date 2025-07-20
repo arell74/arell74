@@ -53,9 +53,6 @@ I'm a passionate **Software and Game Developer** with a strong foundation in pro
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arell74/arell74/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/arell74/arell74/output/snake.svg" alt="Snake animation" />
 
 ###
 

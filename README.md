@@ -43,7 +43,7 @@ I'm a passionate **Software and Game Developer** with a strong foundation in pro
 ## 🏆 **GitHub Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=arell74&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=farelfwzn)](https://wakatime.com/@farelfwzn)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farelfwzn)](https://github.com/arell74/github-readme-stats)
 
 ---
 

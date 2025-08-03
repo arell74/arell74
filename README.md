@@ -56,19 +56,15 @@ I'm a passionate **Software and Game Developer** with a strong foundation in pro
 
 ###
 
+<details>
+<summary>🎵 Now Playing on Spotify</summary>
 <div align="center">
-  <a href="https://open.spotify.com/user/Farelll.">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Farelll.&count=3" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31t76gxtn4qrikxtkfihqv6ktjla">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t76gxtn4qrikxtkfihqv6ktjla&count=3" alt="Spotify recently played"  />
   </a>
 </div>
+</details>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arell74.arell74&"  />
-</div>
-
-###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arell74&icon=5&color=13)](https://visitcount.itsvg.in)

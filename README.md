@@ -1,5 +1,5 @@
 
-## Hello World, I'am Muhamad Farel Fauzan! 👋
+## Hello World, I'am Muhamad Farel Fauzan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **arell74/arell74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I'm a passionate **Software and Game Developer** with a strong foundation in programming, proudly graduated from **SMKN 2 Kuningan**. I love bringing ideas to life through code and am constantly exploring new technologies and challenges
 
 ---
-### **💻  Tech Stack**
+### **<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,java,cpp,js,dart&theme=light)](https://skillicons.dev)
 
@@ -34,7 +34,7 @@ I'm a passionate **Software and Game Developer** with a strong foundation in pro
 
 
 
-## 📊 **GitHub Stats:**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=arell74&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arell74&theme=default&hide_border=false)
 
@@ -66,8 +66,8 @@ I'm a passionate **Software and Game Developer** with a strong foundation in pro
 </details>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=arell74&icon=5&color=13)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### **📫  Connect with Me**
 ![https://instagram.com/farell.fn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/muhamad-farel-fauzan-027b42375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farelfauzan36@gmail.com)

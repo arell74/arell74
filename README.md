@@ -1,5 +1,5 @@
 
-## Hello World, I'am Muhamad Farel Fauzan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello World, I'am *Muhamad Farel Fauzan!* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **arell74/arell74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 </div>
 
 ### **🚀 About Me**
-I'm a passionate **Software and Game Developer** with a strong foundation in programming, proudly graduated from **SMKN 2 Kuningan**. I love bringing ideas to life through code and am constantly exploring new technologies and challenges
+- 🔭 Currently Working On: **Various Web & Mobile Development Projects**
+- 🌱 Currently Learning: **Full-Stack Web Development (Frontend + Backend)**
+- 🎯 Goal: **Building scalable applications and becoming a professional Full-Stack Developer**
+- 📫 Reach Me At: *farelfauzan36@gmail.com*
 
 ---
 ### **<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack**

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="images/orv-omniscient-reader.gif" alt="kdj" width="300"/>
+  <img src="images/orv.gif" alt="kdj" width="800"/>
 </div>
 
 ### **🚀 About Me**

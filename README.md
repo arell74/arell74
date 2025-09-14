@@ -7,11 +7,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=30&duration=5000&pause=700&center=true&color=912EEB&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhamad+Farel+Fauzan" alt="Typing SVG" /></a>
 </p>
-<p align="center">
+
+---
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=20&duration=2000&pause=700&color=F7F7F&center=true&width=500&height=50&lines=Ui%2FUx+Design;Software+Development;Web+Development" alt="Typing SVG">
   </a>
-</p>
+</p> -->
 
 <!--
 **arell74/arell74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 ### **🚀 About Me**
+
 - 🔭 Currently Working On: **Various Web & Mobile Development Projects**
 - 🌱 Currently Learning: **Full-Stack Web Development (Frontend + Backend)**
 - 🎯 Goal: **Building scalable applications and becoming a professional Full-Stack Developer**

@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/f7a47a10-96e3-4a20-a95f-da105c64e9b9.svg)](https://wakatime.com/@f7a47a10-96e3-4a20-a95f-da105c64e9b9)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farelfwzn)](https://github.com/arell74/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farelfwzn&layout=compact)](https://github.com/arell74/github-readme-stats)
 
 ---
 

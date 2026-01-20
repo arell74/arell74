@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 ## 🏆 **GitHub Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=arell74&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
+[![wakatime](https://wakatime.com/badge/user/f7a47a10-96e3-4a20-a95f-da105c64e9b9.svg)](https://wakatime.com/@f7a47a10-96e3-4a20-a95f-da105c64e9b9)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farelfwzn)](https://github.com/arell74/github-readme-stats)
 
 ---
